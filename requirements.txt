@@ -1,0 +1,4 @@
+solders
+base58
+requests
+python-dotenv

@@ -1,3 +1,4 @@
 source .venv/bin/activate
 pip install --upgrade --force-reinstall -r requirements.txt
 python main.py
+python wallet_cli.py
